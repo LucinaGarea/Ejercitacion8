@@ -1,0 +1,86 @@
+.caja1{
+    background-color: rgba(204, 33, 113, 0.11);
+    border: 8px rgb(146, 11, 101) solid;
+    width: 700px;
+    height: 835px;
+    left: 400px;
+    position: absolute;
+}
+.caja2{
+    background-color: rgb(216, 17, 173);
+    width: 700px;
+    height: 30px;
+    float: left;
+    left: 400px;
+    margin-top: 5px;
+    position: relative;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#imagen1{
+    left: 550px;
+    position: absolute;
+    margin-top: 25px;
+    
+}
+.caja3{
+    background-color: rgb(216, 17, 173);
+    width: 700px;
+    height: 30px;
+    float: left;
+    left: 408px;
+    margin-top: 350px;
+    position: absolute;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.caja6{
+    text-align: center;
+    margin-top: 380px;
+    position: relative;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: -150px;
+}
+.caja4{
+    background-color: rgb(216, 17, 173);
+    width: 700px;
+    height: 30px;
+    float: left;
+    left: 408px;
+    margin-top: 610px;
+    position: absolute;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.caja7{
+    text-align: center;
+    margin-top: 630px;
+    position: relative;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: -370px
+}
+.caja5{
+    background-color: rgb(216, 17, 173);
+    width: 700px;
+    height: 30px;
+    float: left;
+    left: 408px;
+    margin-top: 680px;
+    position: absolute;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.caja8{
+    text-align: center;
+    margin-top: 710px;
+    position: relative;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: -590px
+
+}
